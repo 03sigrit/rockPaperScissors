@@ -1,0 +1,38 @@
+html {
+background-color: ghostwhite;
+}
+
+body {
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+font-size: 50px;
+padding-top: 20px;
+text-align: center;
+}
+
+.game {
+padding-top: 50px;
+text-align: center;
+}
+
+button {
+font: 20px bold;
+border-color: black 10px;
+height: 200px;
+width: 200px;
+margin-right: 20px;
+}
+
+#paper {
+    background-image: url(paper.jpg);
+}
+
+#scissors {
+    background-image: url(scissors.jpg);
+}
+
+#rock {
+    background-image: url(rock.jpg);
+}
